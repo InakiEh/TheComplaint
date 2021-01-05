@@ -1,9 +1,9 @@
 # The Complaint
-C# / Unity
+Ruby / Rails
 </br>
 </br>
-Asynchronous mobile (Android) game about world exploration and multiplayer combat.
+Web page of a forum that let people post, like and coment with photo upload diferent complaints inside the "Universidad de los Andes"
 </br>
-Team: Enrique Riveros / Raimundo Marin / Benjamin Naranjo
+Team: Juan Esteban Rodriguez
 </br>
-Course: Software Development Workshop
+Course: Web Technologies
